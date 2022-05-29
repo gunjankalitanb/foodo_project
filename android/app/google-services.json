@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419594978831",
+    "project_id": "fooddonate-947ac",
+    "storage_bucket": "fooddonate-947ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419594978831:android:7cbba3070fed7a1717857a",
+        "android_client_info": {
+          "package_name": "com.example.basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419594978831-0c08u8gnaji65ikab3h8ubdj6girisd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basic",
+            "certificate_hash": "bed05eb7071d7ebadd89435dc9bde1ddb560ee8c"
+          }
+        },
+        {
+          "client_id": "419594978831-vd6ns25qpmofuse0dnf1270dcc7314ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0BFbliHzrHym6cI1cnRmKTrJh2ul8Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419594978831-vd6ns25qpmofuse0dnf1270dcc7314ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
